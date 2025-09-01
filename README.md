@@ -1,9 +1,9 @@
 <div align="center">
-  <img height="80" alt="vaguetheme" src="https://github.com/user-attachments/assets/bb49d964-6759-4486-bc36-bf4a41900b0b" />
-  <h1>Vague for App</h1>
+  <img height="80" alt="icon" src="https://github.com/vague-theme/vague/blob/main/assets/icon.png?raw=true" />
+  <h1>Vague for Alacritty</h1>
   <!-- Optional: add a preview screenshot here -->
   <!-- Example:
-  ![Preview](assets/preview.png)
+  <img src="assets/preview.png" alt="Preview" />
   Note: make sure to adjust image size if applicable
   -->
 </div>
