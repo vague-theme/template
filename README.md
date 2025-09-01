@@ -1,9 +1,10 @@
 <div align="center">
   <img height="80" alt="icon" src="https://github.com/vague-theme/vague/blob/main/assets/icon.png?raw=true" />
-  <h1>Vague for Alacritty</h1>
-  <!-- Optional: add a preview screenshot here -->
-  <!-- Example:
-  <img src="assets/preview.png" alt="Preview" />
+  <h1>Vague for App</h1>
+  <!-- Optional: add a preview screenshot here
+  Use user-attachments instead of the assets/ folder to keep the repo minimal.
+  Example:
+  <img src="https://github.com/user-attachments/assets/..." alt="Preview" />
   Note: make sure to adjust image size if applicable
   -->
 </div>
